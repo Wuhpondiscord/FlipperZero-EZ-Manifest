@@ -22,7 +22,7 @@ Navigate to the project directory:
 
    ```bash
 cd FlipperZero-EZ-Manifest
-Run the script:
+2.   **Run the script:**
 
    ```bash
 python manifest_generator.py
