@@ -67,7 +67,7 @@ If you don't have `colorama` installed, the script will attempt to install it au
      ```
 
 4. **Navigate to the Project Directory**:
-   - Use the `cd FlipperZero-EZ-Manifest` command to change to the project directory that was created when you cloned the repository.
+   - Use `cd FlipperZero-EZ-Manifest` to change to the project directory that was created when you cloned the repository.
 
 5. **Run the Script**:
    - Execute the script using the following command:
