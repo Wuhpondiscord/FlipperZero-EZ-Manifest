@@ -36,9 +36,7 @@ python manifest_generator.py
 
 - Clone the repository to your local machine:
    ```bash
-Copy code
-git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
-Navigate to the project directory:
+   git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 
 bash
 Copy code
@@ -54,6 +52,7 @@ python3 manifest_generator.py
 
 - Clone the repository to your local machine:
    ```bash
+   git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Copy code
 git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
