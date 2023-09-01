@@ -15,7 +15,6 @@ This Python script is a simple tool that helps you generate Flipper Animation Ma
 ## Prerequisites
 
 - Python 3.x
-- [Colorama](https://pypi.org/project/colorama/) library (you can install it via pip)
 
 ## Installation
 
@@ -23,11 +22,11 @@ This Python script is a simple tool that helps you generate Flipper Animation Ma
 
    ```bash
    git clone https://github.com/yourusername/manifest-generator.git
-Install the required Colorama library:
+Install the required packages using pip:
 
 bash
 Copy code
-pip install colorama
+pip install -r requirements.txt
 Usage
 Open a terminal or command prompt.
 
