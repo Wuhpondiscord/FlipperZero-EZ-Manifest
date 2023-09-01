@@ -101,8 +101,7 @@ ASCII Art found on [https://www.asciiart](https://www.asciiart.eu/) made by Norm
 If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. Your contributions are welcome!
 
 ## Help
-If you need any help I'll try to look at issues but if i dont respond or if you want anothe way to get in contact
-Help
+
 If you encounter any common problems or issues, you can reach out for assistance.
 
 Discord: Wuhp
