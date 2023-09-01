@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 Navigate to the project directory:
 
     
-   cd FlipperZero-EZ-Manifest
+ cd FlipperZero-EZ-Manifest
 Run the script:
 
    Copy code
