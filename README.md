@@ -104,7 +104,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 If you encounter any common problems or issues, you can reach out for assistance.
 
-Discord: Wuhp
+Discord: wuhp
 
 TikTok: @2vzk
 
