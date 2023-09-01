@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 
 #### Windows
 
-1. **Clone the repository to your local machine:**
+- Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
