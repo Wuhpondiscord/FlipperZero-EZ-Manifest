@@ -1,27 +1,30 @@
 # FlipperZero EZ Manifest Generator
 
-## Description
+## Overview
 
 The FlipperZero EZ Manifest Generator is a Python script that simplifies the process of creating Flipper Animation Manifest files. These files are used to define various parameters for Flipper animations, making it easy to configure animations for your FlipperZero device.
 
-## Getting Started
+## Supported Platforms
 
-### Prerequisites
+- Windows
+- Linux
+- macOS
 
-Before you begin, ensure you have met the following requirements:
+## Prerequisites
+
 - Python 3.x
 
-### Installation
+## Installation
 
-#### Windows
+### Windows
 
 - Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
-   
-   Navigate to the project directory:
-   
-- cd FlipperZero-EZ-Manifest
+Navigate to the project directory:
+bash
+Copy code
+cd FlipperZero-EZ-Manifest
 Run the script:
 
    Copy code
