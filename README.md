@@ -13,7 +13,6 @@ FlipperZero EZ Manifest is a Python script, `EZ-Manifest.py`, that simplifies th
 - [Contributing](#contributing)
 - [Help](#help)
 - [License](#license)
- 
 ## Prerequisites
 Before using FlipperZero EZ Manifest, make sure you have the following prerequisites installed:
 
