@@ -20,62 +20,48 @@ The FlipperZero EZ Manifest Generator is a Python script that simplifies the pro
 
 ### Windows
 
-1. Clone the repository to your local machine:
+```bash
+# Clone the repository to your local machine
+git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 
-   ```bash
-   git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
-Navigate to the project directory:
-
-
-Copy code
+# Navigate to the project directory
 cd FlipperZero-EZ-Manifest
-Run the script:
 
-Copy code
+# Run the script
 python manifest_generator.py
-
-## Installation
-
-### Linux
-Clone the repository to your local machine:
-
-```bash
+Linux
+bash
 Copy code
+# Clone the repository to your local machine
 git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
-Navigate to the project directory:
 
-Copy code
+# Navigate to the project directory
 cd FlipperZero-EZ-Manifest
-Run the script:
 
-Copy code
+# Run the script
 python3 manifest_generator.py
-
-## Installation
-
-### macOS
-Clone the repository to your local machine:
-
-```bash
+macOS
+bash
 Copy code
+# Clone the repository to your local machine
 git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
-Navigate to the project directory:
 
-Copy code
+# Navigate to the project directory
 cd FlipperZero-EZ-Manifest
-Run the script:
 
-Copy code
+# Run the script
 python3 manifest_generator.py
 Usage
 Open a terminal or command prompt.
 
 Navigate to the directory where you cloned the repository:
 
+bash
 Copy code
 cd path/to/FlipperZero-EZ-Manifest
 Run the script:
 
+bash
 Copy code
 python manifest_generator.py
 Follow the on-screen prompts to generate your Flipper Animation Manifest files.
@@ -83,6 +69,8 @@ Follow the on-screen prompts to generate your Flipper Animation Manifest files.
 ## Options
 Use Default Manifest Folder: If you have a default manifest folder, you can choose to use it when prompted.
 Generate Another Manifest: After generating a manifest, you can choose to generate another one.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
 Discord: Wuhp
@@ -91,6 +79,3 @@ Snapchat: samuel_dudhej
 
 ## Acknowledgments
 ASCII art by Normand Veilleux
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
