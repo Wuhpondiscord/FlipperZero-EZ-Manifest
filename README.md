@@ -1,6 +1,6 @@
 # FlipperZero EZ Manifest
 
-FlipperZero EZ Manifest is a Python script that simplifies the creation of manifest files for subfolders containing animations. These manifest files describe the attributes of each animation subfolder.
+FlipperZero EZ Manifest is a Python script, `EZ-Manifest.py`, that simplifies the creation of manifest files for subfolders containing animations. These manifest files describe the attributes of each animation subfolder.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
@@ -43,7 +43,7 @@ If you don't have `colorama` installed, the script will attempt to install it au
 5. **Run the Script**:
    - Execute the script using the following command:
      ```
-     python manifest_maker.py
+     python EZ-Manifest.py
      ```
 
 ### macOS and Linux
@@ -72,7 +72,7 @@ If you don't have `colorama` installed, the script will attempt to install it au
 5. **Run the Script**:
    - Execute the script using the following command:
      ```
-     python3 manifest_maker.py
+     python3 EZ-Manifest.py
      ```
 
 ## Usage
@@ -95,10 +95,11 @@ To set a default manifest folder:
 2. The script will save the default manifest folder configuration in a `default_manifest.json` file.
 
 ## ASCII Art
-FlipperZero EZ Manifest features custom ASCII art that is displayed when the program runs.
+ASCII Art found on [https://www.asciiart](https://www.asciiart.eu/) made by Normand Veilleux.
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. Your contributions are welcome!
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
