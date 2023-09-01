@@ -80,17 +80,20 @@ Copy code
 python manifest_generator.py
 Follow the on-screen prompts to generate your Flipper Animation Manifest files.
 
-Options
+## Options
 Use Default Manifest Folder: If you have a default manifest folder, you can choose to use it when prompted.
 Generate Another Manifest: After generating a manifest, you can choose to generate another one.
-Help
+
+## Help
 If you encounter any common problems or issues, you can reach out for assistance.
 
 Discord: Wuhp
 TikTok: @2vzk
 Snapchat: samuel_dudhej
-Version History
+
+## Version History
 0.2: Various bug fixes and optimizations.
 0.1: Initial Release.
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
