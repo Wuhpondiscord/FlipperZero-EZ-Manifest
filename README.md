@@ -35,8 +35,7 @@ python manifest_generator.py
 #### Linux
 
 - Clone the repository to your local machine:
-
-bash
+   ```bash
 Copy code
 git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
@@ -53,9 +52,8 @@ python3 manifest_generator.py
 ### Installation
 #### macOS
 
--Clone the repository to your local machine:
-
-bash
+- Clone the repository to your local machine:
+   ```bash
 Copy code
 git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
