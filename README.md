@@ -35,7 +35,7 @@ Run the script:
 Copy code
 python manifest_generator.py
 
-## Linux
+### Linux
 Clone the repository to your local machine:
 
 ```bash
@@ -52,7 +52,7 @@ bash
 Copy code
 python3 manifest_generator.py
 
-## macOS
+### macOS
 Clone the repository to your local machine:
 
 ```bash
