@@ -2,6 +2,8 @@
 
 FlipperZero EZ Manifest is a Python script, `EZ-Manifest.py`, that simplifies the creation of manifest files for subfolders containing animations. These manifest files describe the attributes of each animation subfolder.
 
+## If You like it and it works well please give it a star:)
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
