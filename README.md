@@ -22,8 +22,9 @@ The FlipperZero EZ Manifest Generator is a Python script that simplifies the pro
    ```bash
    git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
+
+   ```bash
 - Copy code: ```cd FlipperZero-EZ-Manifest
-cd FlipperZero-EZ-Manifest
 Run the script:
 
    Copy code
