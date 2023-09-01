@@ -20,16 +20,16 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
 
-```bash
 Copy code
 cd FlipperZero-EZ-Manifest
 Run the script:
 
-bash
 Copy code
 python manifest_generator.py
 
-##### Linux
+### Installation
+
+#### Linux
 
 - Clone the repository to your local machine:
 
@@ -47,7 +47,8 @@ bash
 Copy code
 python3 manifest_generator.py
 
-##### macOS
+### Installation
+#### macOS
 
 -Clone the repository to your local machine:
 
