@@ -24,7 +24,7 @@ Navigate to the project directory:
    cd FlipperZero-EZ-Manifest
 Run the script:
 
-   ```bash Copy code
+   Copy code
 python manifest_generator.py
 
 ### Installation
