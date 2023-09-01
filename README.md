@@ -20,8 +20,8 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
 
-Copy code
-cd FlipperZero-EZ-Manifest
+    ```bash  
+   cd FlipperZero-EZ-Manifest
 Run the script:
 
 Copy code
