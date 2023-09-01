@@ -21,7 +21,7 @@ This Python script is a simple tool that helps you generate Flipper Animation Ma
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/manifest-generator.git
+   git clone https://github.com/Wuhpondiscord/manifest-generator.git
 Install the required packages using pip:
 
 bash
