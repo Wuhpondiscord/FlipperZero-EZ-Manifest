@@ -21,61 +21,51 @@ Before you begin, ensure you have met the following requirements:
 Navigate to the project directory:
 
    ```bash
-Copy code
 cd FlipperZero-EZ-Manifest
 Run the script:
 
    ```bash
-Copy code
 python manifest_generator.py
 
 #### Linux
 
 Clone the repository to your local machine:
 
-bash
-Copy code
+   ```bash
 git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
 
-bash
-Copy code
+   ```bash
 cd FlipperZero-EZ-Manifest
 Run the script:
 
-bash
-Copy code
+   ```bash
 python3 manifest_generator.py
 
 ### macOS
 
 Clone the repository to your local machine:
 
-bash
-Copy code
+   ```bash
 git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
 
-bash
-Copy code
+   ```bash
 cd FlipperZero-EZ-Manifest
 Run the script:
 
-bash
-Copy code
+   ```bash
 python3 manifest_generator.py
 Usage
 Open a terminal or command prompt.
 
 Navigate to the directory where you cloned the repository:
 
-bash
-Copy code
+   ```bash
 cd path/to/FlipperZero-EZ-Manifest
 Run the script:
 
-bash
-Copy code
+   ```bash
 python manifest_generator.py
 Follow the on-screen prompts to generate your Flipper Animation Manifest files.
 
