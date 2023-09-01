@@ -106,9 +106,6 @@ If you encounter any common problems or issues, you can reach out for assistance
 
 Discord: wuhp
 
-TikTok: @2vzk
-
-Snapchat: samuel_dudhej
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
