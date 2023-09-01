@@ -26,24 +26,24 @@ The FlipperZero EZ Manifest Generator is a Python script that simplifies the pro
    git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
 
-bash
+```bash
 Copy code
 cd FlipperZero-EZ-Manifest
 Run the script:
 
-bash
+```bash
 Copy code
 python manifest_generator.py
 
 ## Linux
 Clone the repository to your local machine:
 
-bash
+```bash
 Copy code
 git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
 
-bash
+```bash
 Copy code
 cd FlipperZero-EZ-Manifest
 Run the script:
@@ -55,17 +55,17 @@ python3 manifest_generator.py
 ## macOS
 Clone the repository to your local machine:
 
-bash
+```bash
 Copy code
 git clone https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest.git
 Navigate to the project directory:
 
-bash
+```bash
 Copy code
 cd FlipperZero-EZ-Manifest
 Run the script:
 
-bash
+```bash
 Copy code
 python3 manifest_generator.py
 Usage
@@ -73,12 +73,12 @@ Open a terminal or command prompt.
 
 Navigate to the directory where you cloned the repository:
 
-bash
+```bash
 Copy code
 cd path/to/FlipperZero-EZ-Manifest
 Run the script:
 
-bash
+```bash
 Copy code
 python manifest_generator.py
 Follow the on-screen prompts to generate your Flipper Animation Manifest files.
