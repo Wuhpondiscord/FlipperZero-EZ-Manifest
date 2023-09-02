@@ -4,6 +4,10 @@ FlipperZero EZ Manifest is a Python script, `EZ-Manifest.py`, that simplifies th
 
 ## If You like it and it works well please give it a star:)
 
+
+## If You want a big dump of animations with the manifest folder already made check out https://github.com/Wuhpondiscord/Flipper-Zero-animations :)
+
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
