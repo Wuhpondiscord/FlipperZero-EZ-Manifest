@@ -15,9 +15,9 @@ init(autoreset=True)
 
 def create_manifest_entry(name):
     min_butthurt = 0
-    max_butthurt = 10
+    max_butthurt = 1000
     min_level = 1
-    max_level = 3
+    max_level = 1000
     weight = 8
 
     manifest_entry = f"""
