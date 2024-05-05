@@ -117,7 +117,7 @@ def display_ascii_art():
     print(f"{Fore.MAGENTA}   dP:::::Yb      ,ad8\"\"")
     print(f"{Fore.MAGENTA}   8):::::(8  ,ad8\"\"     {Fore.CYAN}by discord @wuhp")
     print(f"{Fore.MAGENTA}   Yb:;;;:d888\"\"            {Fore.CYAN}tiktok @2vzk")
-    print(f"{Fore.MAGENTA}    \"8ggg8P\"                {Fore.CYAN}snap @samuel_dudhej")
+    print(f"{Fore.MAGENTA}    \"8ggg8P\"                
     print()
 
 def main():
